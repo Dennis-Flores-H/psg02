@@ -1,7 +1,7 @@
 # Sesion 02 Python Study Group 2024
 ## .gitignore y Markdown
 
-Hola mi hoy es el partido de **Bolivia vs Estados Unidos**
+Hoy es el partido de **Bolivia vs Estados Unidos**
 
 > Show me the code
 
